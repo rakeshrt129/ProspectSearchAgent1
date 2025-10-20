@@ -1,0 +1,61 @@
+[
+  {
+    "company_name": "DataIQ Inc",
+    "domain": "dataiq.com",
+    "revenue": 75000000,
+    "industry": "B2B Software",
+    "employee_count": 150,
+    "contacts": [
+      {
+        "name": "Sarah Green",
+        "title": "VP Data Science",
+        "email": "sarah@dataiq.com",
+        "linkedin": "linkedin.com/in/sarahgreen"
+      }
+    ],
+    "source": [
+      "SerpAPI",
+      "Crunchbase",
+      "Apollo"
+    ],
+    "funding_stage": "Series B",
+    "funding_amount": 25000000,
+    "signals": {
+      "recent_funding": true,
+      "recent_hiring": true,
+      "roles": [
+        "Data Engineer",
+        "ML Engineer"
+      ]
+    },
+    "confidence": 1.0
+  },
+  {
+    "company_name": "Finlytix Corp",
+    "domain": "finlytix.com",
+    "revenue": 50000000,
+    "industry": "FinTech",
+    "employee_count": 120,
+    "contacts": [
+      {
+        "name": "John Smith",
+        "title": "Head of Analytics",
+        "email": "john@finlytix.com",
+        "linkedin": "linkedin.com/in/johnsmith"
+      }
+    ],
+    "source": [
+      "SerpAPI",
+      "Crunchbase",
+      "Apollo"
+    ],
+    "funding_stage": "Series A",
+    "funding_amount": 15000000,
+    "signals": {
+      "recent_funding": true,
+      "recent_hiring": false,
+      "roles": []
+    },
+    "confidence": 0.7
+  }
+]
